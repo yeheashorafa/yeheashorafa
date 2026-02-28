@@ -1,83 +1,132 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Yehea+Shorafa;Full+Stack+Developer;Building+Scalable+Web+Applications;Next.js+%7C+Node.js+%7C+Docker" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yehea%20F.%20Shorafa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Systems-Oriented%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps+%F0%9F%9A%80;Node.js+%2B+Next.js+Developer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/yeheashorafa6?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/yeheashorafa6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/yehea-shorafa/)
+[![Profile Views](https://komarev.com/ghpvc/?username=yeheashorafa6&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/yeheashorafa6)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Full Stack Developer focused on building **scalable, production-ready web applications**.
+- 🚀 **Full Stack Developer** focused on building scalable, production-ready web applications.
+- ⚙️ **Backend-oriented engineer** designing clean APIs and structured system architecture using **Node.js & Express**.
+- 🎨 **Frontend developer** crafting fast, modern UIs with **Next.js & React**.
+- 🗄️ Working with **MySQL & Prisma** for structured, reliable data modeling.
+- 🐳 Exploring **Docker** for containerized, isolated development environments.
+- ⚡ Learning **Redis** for caching strategies and session optimization.
+- 📐 Passionate about **clean architecture**, **RESTful design**, and **real-world business logic**.
 
-I care about:
-- Clean architecture
-- Backend performance
-- API design
-- Real-world business logic
-
-Currently deep diving into **Redis & backend optimization**.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
-</p>
-
-### ⚙ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,redis" />
-</p>
-
-### 🐳 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
-</p>
+> **I think in systems, not pages. I build solutions that scale, not just features that work.**
 
 ---
 
-## 🧠 Engineering Mindset
+## 🛠️ Tech Stack
 
-- I build systems, not just features.
-- I optimize before I decorate.
-- I design APIs with scalability in mind.
-- I think in workflows, not pages.
+<div align="center">
+
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+<div align="center">
+
+| 🔥 Project | 📝 Description | 🏷️ Stack |
+|:----------:|:--------------:|:--------:|
+| **🛒 E-Commerce Platform** | Full stack store with cart, auth & orders | Next.js · Node.js · MySQL |
+| **🔐 Auth System** | JWT-based auth with roles & refresh tokens | Node.js · Express · Prisma |
+| **⚡ API Boilerplate** | Scalable REST API starter with clean architecture | Node.js · Redis · Docker |
+
+> 🛠️ *More projects coming soon — always building something!*
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
+![Advanced MySQL](https://img.shields.io/badge/Advanced_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Next.js Advanced](https://img.shields.io/badge/Next.js_Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" width="600"/>
+</div>
 
-## 🔥 Currently Learning
-
-- Advanced Redis patterns
-- Backend performance optimization
-- Scalable system design
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yeheashorafa6&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
 
 ---
 
-## 💼 Beyond Code
+## ⚡ Fun Fact
 
-Coming from a business background (Sales & Accounting),  
-I understand how software supports operations, workflows, and real decision-making.
+> 🧩 I don't just write code — I **architect experiences**.
+> Every feature I build starts with one question: *"Will this scale?"*
 
 ---
 
-<p align="center">
-  ⚡ Always building. Always improving.
-</p>
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yehea%20Shorafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehea-shorafa/)
+[![GitHub](https://img.shields.io/badge/GitHub-yeheashorafa6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeheashorafa6)
+
+<br/>
+
+*💬 Always open to collaborate on interesting projects or just talk tech!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
