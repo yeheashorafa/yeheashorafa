@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Applications%20with%20Node.js%20%26%20Next.js&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=yeheashorafa6&data=followers,repositories,stars,commits&theme=darkmode" alt="Yehea Shorafa" width="100%"/>
+
+<h1>👋 Hi, I'm Yehea F. Shorafa</h1>
+<h3>Full Stack Developer | Building Scalable Applications with Node.js & Next.js</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+Next.js+Engineer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
 
@@ -149,4 +152,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_footer.svg" />
+</div>
