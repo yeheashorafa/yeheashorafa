@@ -1,17 +1,15 @@
-<div align="center">
+<div align="start">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=yeheashorafa&data=followers,repositories,stars,commits&theme=darkmode" alt="Yehea Shorafa" width="100%"/>
+<h1>Hello 🌍, I'm Yehea F. Shorafa</h1>
 
-<h1>👋 Hi, I'm Yehea F. Shorafa</h1>
-<h3>Full Stack Developer | Building Scalable Applications with Node.js & Next.js</h3>
+<p><strong>Full Stack Developer</strong> | Backend-Oriented Engineer
+<strong>Node.js & Next.js Specialist</strong> • 
+REST API & System Architecture Builder
+Prisma & MySQL Data Modeling • 
+Docker & Redis Enthusiast
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+Next.js+Engineer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yehea%20Shorafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/yehea-shorafa/)
-[![GitHub](https://img.shields.io/badge/GitHub-yeheashorafa-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/yeheashorafa)
-[![Profile Views](https://komarev.com/ghpvc/?username=yeheashorafa&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/yeheashorafa)
+<h4>🏆 Hebron CodeJam 2025 – 1st Place (Gaza Region)</h4>
 
 </div>
 
@@ -112,15 +110,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/yeheashorafa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/yeheashorafa">
   <img src="https://streak-stats.demolab.com?user=yeheashorafa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
 </a>
@@ -133,8 +122,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeheashorafa&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&hide_border=true)](https://github.com/yeheashorafa)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeheashorafa&theme=dracula&bg_color=0D1117&color=FF75A0&line=8BE9FD&point=50FA7B&area=true)](https://github.com/yeheashorafa)
 </div>
 
 ---
@@ -153,6 +141,6 @@
 </div>
 
 ---
-<div align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_footer.svg" />
+<div align="start">
+  <p>Yehea F. Shorafa</p>
 </div>
