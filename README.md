@@ -1,6 +1,6 @@
 <div align="start">
 
-<h1>Hello 🌍, I'm Yehea F. Shorafa</h1>
+<h1>Launching ideas into code 🧡, I'm Yehea F. Shorafa</h1>
 
 <p><strong>Full Stack Developer</strong> | Backend-Oriented Engineer
 <strong>Node.js & Next.js Specialist</strong> • 
